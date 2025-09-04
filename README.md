@@ -50,7 +50,7 @@ Currently diving deep into **Flutter & Dart** to build mobile experiences that a
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/little151/little151/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/little151/little151/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---

@@ -5,26 +5,27 @@
 </p>
 
 <center> 
-  <em>Flutter & Full-Stack Developer | Open Source Contributor | Tech Enthusiast</em> 
+  <em>Data & Cloud | Tech Enthusiast</em> 
 </center>
 
 ---
 
 ## 👨‍💻 About Me
-I'm a passionate developer from **India** who loves crafting scalable applications and exploring new technologies.  
-Currently diving deep into **Flutter & Dart** to build mobile experiences that are fast, smooth, and user-friendly.
+I'm a passionate developer from **India** who loves crafting scalable applications and exploring new technologies, passionate about **software engineering, cloud technologies, and data-driven solutions**.  
 
-- 🌱 Continuously learning and experimenting with modern tech stacks  
-- 💡 Focused on writing clean, maintainable, and efficient code  
-- 🤝 Open to collaboration and contributing to meaningful projects  
+- 🌱 Exploring: *Cloud Platforms, Machine Learning, IoT Systems*  
+- 🎯 Goal: *Leverage technology to deliver scalable and impactful solutions*  
+- 📝 Publications: *2 accepted research papers in ML & IoT domains*  
+- 💬 Ask me about: *Python, Data Analytics, MySQL, IoT Systems, Cloud*  
 
 ---
 
 ## 🛠 Skills & Tools
-**Languages:** C, C++, Python, Dart  
-**Frameworks & Libraries:** Flutter  
-**Databases:** MySQL  
-**Platforms & Tools:** Linux, Git, VS Code  
+**Programming:** Python, C/C++, OOP  
+**Data Analytics & Visualization:** Excel, Power BI  
+**Databases:** MySQL, SQL  
+**Cloud & Tools:** Azure Fundamentals, Git, Linux, VS Code  
+**Audit Tools:** Alteryx (Basic) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -61,12 +62,17 @@ Currently diving deep into **Flutter & Dart** to build mobile experiences that a
 
 ## 🌐 Connect with Me
 <p align="center">
+  <p align="center">
+  <a href="mailto:divyanshgautam151@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/divyansh-gautam-59aa63209" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/notlitttle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  
 </p>
 
 ---
